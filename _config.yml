@@ -16,9 +16,9 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+ - name: "Home"
+   link: "/"
+ - name: "School"
+   link: "/school/"
+ - name: "I am A-G Ready"
+   link: "/school/graduation/"
