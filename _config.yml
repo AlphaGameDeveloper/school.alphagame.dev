@@ -22,3 +22,5 @@ nav:
    link: "/school/"
  - name: "I am A-G Ready"
    link: "/school/graduation/"
+ - name: "AlphaGame.dev"
+   link: "https://alphagame.dev/?utm_source=school.alphagame.dev&utm_medium=navbar"
