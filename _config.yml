@@ -1,0 +1,24 @@
+title: Damien Boisvert
+url: "https://school.alphagame.dev"
+baseurl: ""
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/ankitsultana"
+footer_text: "This website (and it's content) is copyright &copy; 2024 Damien Boisvert.  Some Rights Reserved."
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/researcher/"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
